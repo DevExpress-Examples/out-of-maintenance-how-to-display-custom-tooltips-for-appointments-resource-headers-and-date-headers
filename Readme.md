@@ -63,7 +63,6 @@
 
 <p>In addition, we override styles for date headers and add tooltips to them as well.</p><p>Here is a screenshot that illustrates a sample application in action (we see an appointment tooltip here):</p><p><img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-custom-tooltips-for-appointments-resource-headers-and-date-headers-e4432/12.1.9+/media/1b10dae8-83d7-489b-9f3d-32e8704c232a.png"></p><p><strong>See Also:</strong><br />
 <a href="http://documentation.devexpress.com/#WPF/CustomDocument8922"><u>Styles and Templates</u></a><br />
-<a href="https://www.devexpress.com/Support/Center/p/E3450">How to customize the SchedulerControl presentation differently for different themes</a></p>
 
 <br/>
 
